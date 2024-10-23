@@ -1,4 +1,4 @@
-# Connecting-php-files-
+# Connecting-php-files
 
 SQL Database created on phpMyAdmin
 
