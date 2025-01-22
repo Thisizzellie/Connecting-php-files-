@@ -15,7 +15,7 @@ if(isset($_POST['search']))
     $search_result = filterTable($query);
 }
 
-// function to connect and execute the query
+// function to connect and execute query
 function filterTable($query)
 {
     $connect = mysqli_connect("localhost", "root", "", "Staff");
